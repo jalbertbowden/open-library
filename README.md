@@ -13,7 +13,7 @@
 ### OS - Open Source  
 
 ## References  
-
+[Exploring the use of Open Educational Resources (OER) in medical education at the University of Tasmania](http://openedoz.org/wp-content/uploads/2015/10/Exploring-the-use-of-Open-Educational-Resources-OER-in-medical-education-at-the-University-of-Tasmania.pdf)  
 [Open City: Local Government & Open Data - European Public Sector Information Platform](https://www.europeandataportal.eu/sites/default/files/2015_open_city_local_government_and_open_data.pdf)
 [Fostering Innovation, Creating Jobs, Driving Better Decisions: The Value of Government Data](http://www.esa.doc.gov/sites/default/files/revisedfosteringinnovationcreatingjobsdrivingbetterdecisions-thevalueofgovernmentdata.pdf)  
 [Transparency in Government](http://web.archive.org/web/20090514200121/http://usaservices.gov/events_news/documents/Transparency_000.pdf)  
